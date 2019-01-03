@@ -1,0 +1,8 @@
+D:\ProjectTest\ThreadTest\ThreadTest\bin\Release\ThreadTest.exe.config
+D:\ProjectTest\ThreadTest\ThreadTest\bin\Release\ThreadTest.exe
+D:\ProjectTest\ThreadTest\ThreadTest\bin\Release\ThreadTest.pdb
+D:\ProjectTest\ThreadTest\ThreadTest\obj\Release\ThreadTest.Form1.resources
+D:\ProjectTest\ThreadTest\ThreadTest\obj\Release\ThreadTest.Properties.Resources.resources
+D:\ProjectTest\ThreadTest\ThreadTest\obj\Release\ThreadTest.csproj.GenerateResource.Cache
+D:\ProjectTest\ThreadTest\ThreadTest\obj\Release\ThreadTest.exe
+D:\ProjectTest\ThreadTest\ThreadTest\obj\Release\ThreadTest.pdb

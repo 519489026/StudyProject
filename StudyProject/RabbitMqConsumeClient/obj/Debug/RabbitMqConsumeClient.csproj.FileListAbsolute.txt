@@ -1,0 +1,11 @@
+D:\ProjectTest\StudyProject\RabbitMqConsumeClient\bin\Debug\RabbitMqConsumeClient.exe.config
+D:\ProjectTest\StudyProject\RabbitMqConsumeClient\bin\Debug\RabbitMqConsumeClient.exe
+D:\ProjectTest\StudyProject\RabbitMqConsumeClient\bin\Debug\RabbitMqConsumeClient.pdb
+D:\ProjectTest\StudyProject\RabbitMqConsumeClient\bin\Debug\Newtonsoft.Json.dll
+D:\ProjectTest\StudyProject\RabbitMqConsumeClient\bin\Debug\Rabbit.dll
+D:\ProjectTest\StudyProject\RabbitMqConsumeClient\obj\Debug\RabbitMqConsumeClient.csprojResolveAssemblyReference.cache
+D:\ProjectTest\StudyProject\RabbitMqConsumeClient\obj\Debug\RabbitMqConsumeClient.Form1.resources
+D:\ProjectTest\StudyProject\RabbitMqConsumeClient\obj\Debug\RabbitMqConsumeClient.Properties.Resources.resources
+D:\ProjectTest\StudyProject\RabbitMqConsumeClient\obj\Debug\RabbitMqConsumeClient.csproj.GenerateResource.Cache
+D:\ProjectTest\StudyProject\RabbitMqConsumeClient\obj\Debug\RabbitMqConsumeClient.exe
+D:\ProjectTest\StudyProject\RabbitMqConsumeClient\obj\Debug\RabbitMqConsumeClient.pdb

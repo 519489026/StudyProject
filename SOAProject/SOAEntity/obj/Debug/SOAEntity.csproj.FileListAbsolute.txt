@@ -1,0 +1,5 @@
+D:\ProjectTest\SOAProject\SOAEntity\bin\Debug\SOAEntity.dll
+D:\ProjectTest\SOAProject\SOAEntity\bin\Debug\SOAEntity.pdb
+D:\ProjectTest\SOAProject\SOAEntity\obj\Debug\SOAEntity.csprojResolveAssemblyReference.cache
+D:\ProjectTest\SOAProject\SOAEntity\obj\Debug\SOAEntity.dll
+D:\ProjectTest\SOAProject\SOAEntity\obj\Debug\SOAEntity.pdb

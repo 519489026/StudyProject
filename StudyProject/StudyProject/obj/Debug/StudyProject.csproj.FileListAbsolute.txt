@@ -1,0 +1,7 @@
+D:\ProjectTest\StudyProject\StudyProject\obj\Debug\StudyProject.csprojResolveAssemblyReference.cache
+D:\ProjectTest\StudyProject\StudyProject\bin\StudyProject.dll.config
+D:\ProjectTest\StudyProject\StudyProject\bin\StudyProject.dll
+D:\ProjectTest\StudyProject\StudyProject\bin\StudyProject.pdb
+D:\ProjectTest\StudyProject\StudyProject\obj\Debug\StudyProject.dll
+D:\ProjectTest\StudyProject\StudyProject\obj\Debug\StudyProject.pdb
+D:\ProjectTest\StudyProject\StudyProject\bin\Newtonsoft.Json.dll

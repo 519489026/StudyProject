@@ -1,0 +1,16 @@
+D:\ProjectTest\CoreTest\CoreTest\bin\Release\netcoreapp2.2\linux-x64\libhostpolicy.so
+D:\ProjectTest\CoreTest\CoreTest\bin\Release\netcoreapp2.2\linux-x64\libhostfxr.so
+D:\ProjectTest\CoreTest\CoreTest\bin\Release\netcoreapp2.2\linux-x64\CoreTest
+D:\ProjectTest\CoreTest\CoreTest\bin\Release\netcoreapp2.2\linux-x64\CoreTest.deps.json
+D:\ProjectTest\CoreTest\CoreTest\bin\Release\netcoreapp2.2\linux-x64\CoreTest.runtimeconfig.json
+D:\ProjectTest\CoreTest\CoreTest\bin\Release\netcoreapp2.2\linux-x64\CoreTest.runtimeconfig.dev.json
+D:\ProjectTest\CoreTest\CoreTest\bin\Release\netcoreapp2.2\linux-x64\CoreTest.dll
+D:\ProjectTest\CoreTest\CoreTest\bin\Release\netcoreapp2.2\linux-x64\CoreTest.pdb
+D:\ProjectTest\CoreTest\CoreTest\obj\Release\netcoreapp2.2\linux-x64\CoreTest.csproj.CoreCompileInputs.cache
+D:\ProjectTest\CoreTest\CoreTest\obj\Release\netcoreapp2.2\linux-x64\CoreTest.RazorAssemblyInfo.cache
+D:\ProjectTest\CoreTest\CoreTest\obj\Release\netcoreapp2.2\linux-x64\CoreTest.RazorAssemblyInfo.cs
+D:\ProjectTest\CoreTest\CoreTest\obj\Release\netcoreapp2.2\linux-x64\CoreTest.AssemblyInfoInputs.cache
+D:\ProjectTest\CoreTest\CoreTest\obj\Release\netcoreapp2.2\linux-x64\CoreTest.AssemblyInfo.cs
+D:\ProjectTest\CoreTest\CoreTest\obj\Release\netcoreapp2.2\linux-x64\CoreTest.RazorTargetAssemblyInfo.cache
+D:\ProjectTest\CoreTest\CoreTest\obj\Release\netcoreapp2.2\linux-x64\CoreTest.dll
+D:\ProjectTest\CoreTest\CoreTest\obj\Release\netcoreapp2.2\linux-x64\CoreTest.pdb
